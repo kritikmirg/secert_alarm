@@ -2,15 +2,19 @@
 
 An alarm that can ring through headphones.
 
-## Getting Started
+## Giving your alarm a name
 
-This project is a starting point for a Flutter application.
+![part1](https://user-images.githubusercontent.com/57408020/71426119-26aa2200-2673-11ea-8fd6-28d361bf2ba2.gif)
 
-A few resources to get you started if this is your first Flutter project:
+## Setting the time for your alarm
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![part2](https://user-images.githubusercontent.com/57408020/71426194-23636600-2674-11ea-90a2-9622641d8dba.gif)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Alarm Ringing
+
+![part3](https://user-images.githubusercontent.com/57408020/71426252-dfbd2c00-2674-11ea-81ac-bff14330a3f8.gif)
+
+## Canceling Alarm
+
+![part5](https://user-images.githubusercontent.com/57408020/71426361-53ac0400-2676-11ea-8ee9-40ac5c4dc9b9.gif)
+
